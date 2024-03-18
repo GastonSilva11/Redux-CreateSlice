@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btnPlus {
+  color: blue;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+li {
+  padding: 1rem;
+  border-radius: 3px;
+  box-shadow: 0 0 5px 1px rgb(194, 194, 194);
+  margin: 10px;
+}
