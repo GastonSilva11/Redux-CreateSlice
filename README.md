@@ -1,8 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En la *Home* de la aplicación se verán todas las listas. Al hacer *click* sobre alguna de ellas, se abrirá una nueva página donde se podrán ver los *items* de la lista.
 
-Currently, two official plugins are available:
+Cada lista tendrá su propia URL, lo que permitirá acceder directamente a cualquier lista, sin pasar por la *Home.*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
